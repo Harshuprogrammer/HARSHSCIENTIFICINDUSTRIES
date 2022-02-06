@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<title> HARSH SCIENTIFIC INDUSTRIES </title>
+</head>
+<body>
+<h1> <mark> REPAIRING OF INSTRUMENTS </mark> </h1>
+<img src="file:///D:/coding%20work%20-HTML/chemistry.png.png">
+<img src="file:///D:/coding%20work%20-HTML/science.jpg.jpg">
+<h2> <mark>for lab instruments and chemestry instruments repairings please contact at 7773017046</mark> </h2>
+<P> adress= gol phadiya nawgreh caloni secter no.2 near by mata's temple (GWALIOR M.P) </p>
+<table>
+ <tr>
+  <th>Brand</th>
+  <th>Model</th>
+  <th>Year</th>
+ </tr>
+</table>
+</body>
+</html>
